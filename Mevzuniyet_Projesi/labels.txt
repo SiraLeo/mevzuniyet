@@ -1,0 +1,5 @@
+0 Kağıt
+1 Pil
+2 Plastik
+3 Cam
+4 Metal
